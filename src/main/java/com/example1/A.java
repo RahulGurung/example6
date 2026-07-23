@@ -1,5 +1,6 @@
 package com.example1;
 
 public class A {
-  int i=10;
+  static int x=10;
+  static int y=20;
 }
