@@ -1,6 +1,9 @@
 package com.example1;
 
-public class A {
-  static int x=10;
-  static int y=20;
+public class A 
+{
+  public void test()
+{
+	System.out.println("this is update feature");
+}
 }
