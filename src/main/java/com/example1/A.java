@@ -6,5 +6,6 @@ public class A
 {
 	System.out.println("this is update feature");
 	System.out.println("further update made to improve Login OTP feature");
+	int i=100;
 }
 }
